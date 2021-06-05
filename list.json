@@ -21,12 +21,12 @@
         "logoURI": "https://bscscan.com/token/images/knightsdefi2_32.png"
       },
       {
-        "name": "The Token Kennel",
-        "address": "0x2c319cde4e46f85f7a1004b9a81d4a52d896e208",
-        "symbol": "Kennel",
+        "name": "Bogged Finance",
+        "address": "0xd7b729ef857aa773f47d37088a1181bb3fbf0099",
+        "symbol": "BOG",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": "https://bscscan.com/token/images/thetokenkennel_32.png"
+        "logoURI": "https://bscscan.com/token/images/bogtools_32.png"
       },
       {
         "name": "MILF",
@@ -77,12 +77,12 @@
         "logoURI": "https://bscscan.com/token/images/busd_32.png"
       },
       {
-        "name": "Safermoon",
-        "address": "0xA656F993bD14B2B59a28d1e610476AD18849b107",
-        "symbol": "SAFERMOON",
+        "name": "Dogecoin",
+        "address": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
+        "symbol": "Doge",
         "chainId": 56,
         "decimals": 9,
-        "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xA656F993bD14B2B59a28d1e610476AD18849b107/logo.png"
+        "logoURI": "https://bscscan.com/token/images/dogecoin_32.png"
       },
       {
         "name": "WaultSwap",
