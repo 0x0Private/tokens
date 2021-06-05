@@ -1,5 +1,5 @@
 {
-    "name": "0x0 Private Community Tokens",
+    "name": "Private Community Tokens",
     "timestamp": "2021-06-03T00:00:00.000Z",
     "version": {
       "major": 0,
@@ -8,8 +8,8 @@
     },
     "logoURI": "https://avatars.githubusercontent.com/u/85376580?s=400&u",
     "keywords": [
-      "0X0",
-      "Private community"
+      "Private",
+      "community"
     ],
     "tokens": [
       {
