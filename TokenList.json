@@ -12,6 +12,16 @@
       "Tokens"
     ],
     "tokens": [
+
+      {
+        "name": "Binance Pegged Cardano",
+        "symbol": "ADA",
+        "address": "0x16c0e0936e1b38ff1f9b8a1e75d8ba29adf87d30",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47/logo.png"
+      },
+      
       {
         "name": "MILF",
         "symbol": "MILF",
@@ -51,15 +61,6 @@
         "chainId": 56,
         "decimals": 18,
         "logoURI": "https://bscscan.com/token/images/goldfarmio_32.png"
-      },
-      
-      {
-        "name": "Binance Pegged Cardano",
-        "symbol": "ADA",
-        "address": "0x16c0e0936e1b38ff1f9b8a1e75d8ba29adf87d30",
-        "chainId": 56,
-        "decimals": 18,
-        "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47/logo.png"
       },
       
       {
@@ -189,7 +190,7 @@
         "address": "0x53A61eab81463803a269118d5e41b4AF26969Af6",
         "chainId": 56,
         "decimals": 9,
-        "logoURI": ""
+        "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x53A61eab81463803a269118d5e41b4AF26969Af6/logo.png"
       },
       {
         "name": "ROCKS IDLE GAME ",
@@ -197,7 +198,7 @@
         "address": "0xfc4ed6fc4c0bb0432ec11701685578ae5e620c38",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": ""
+        "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xfc4ed6fc4c0bb0432ec11701685578ae5e620c38/logo.png"
       },
       {
         "name": "Binance Pegged Compound Coin",
@@ -213,7 +214,7 @@
         "address": "0x8b3268a23131dafbd77165690767f285c1aac6c5",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": ""
+        "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x8b3268a23131dafbd77165690767f285c1aac6c5/logo.png"
       },
       {
         "name": "CumRocket",
