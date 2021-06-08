@@ -7,6 +7,8 @@ step 1: go to the part where it says select currency
 
 
 step 2: step 1: click where it says manage tokens
+
+
 ![image](https://user-images.githubusercontent.com/85376580/121107545-1d186980-c7d6-11eb-9802-4a12227d7d68.png)
 
 
