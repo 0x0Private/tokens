@@ -200,12 +200,12 @@
         "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3/logo.png"
       },
       {
-        "name": "DeChart",
-        "symbol": "DCH",
-        "address": "0x14ACe3d3429408bFA8562099A253172913AD71bd",
+        "name": "Cerberus Token",
+        "symbol": "Cerberus",
+        "address": "0x8b3268a23131dafbd77165690767f285c1aac6c5",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x14ACe3d3429408bFA8562099A253172913AD71bd/logo.png"
+        "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x8b3268a23131dafbd77165690767f285c1aac6c5/logo.png"
       },
       {
         "name": "DefiDollar DAO",
@@ -232,12 +232,12 @@
         "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xbA2aE424d960c26247Dd6c32edC70B295c744C43/logo.png"
       },
       {
-        "name": "DOGGY",
-        "symbol": "DOGGY",
-        "address": "0x74926B3d118a63F6958922d3DC05eB9C6E6E00c6",
+        "name": "CoinBurn",
+        "symbol": "CBN",
+        "address": "0x53A61eab81463803a269118d5e41b4AF26969Af6",
         "chainId": 56,
-        "decimals": 18,
-        "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x74926B3d118a63F6958922d3DC05eB9C6E6E00c6/logo.png"
+        "decimals": 9,
+        "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x53A61eab81463803a269118d5e41b4AF26969Af6/logo.png"
       },
       {
         "name": "Dopple Token",
@@ -416,12 +416,12 @@
         "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xfCb520B47f5601031E0Eb316F553A3641FF4B13C/logo.png"
       },
       {
-        "name": "loser coin",
-        "symbol": "lowb",
-        "address": "0x843D4a358471547f51534e3e51fae91cb4Dc3F28",
+        "name": "ROCKS IDLE GAME ",
+        "symbol": "ROCKS",
+        "address": "0xfc4ed6fc4c0bb0432ec11701685578ae5e620c38",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x843D4a358471547f51534e3e51fae91cb4Dc3F28/logo.png"
+        "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/0xfc4ed6fc4c0bb0432ec11701685578ae5e620c38/logo.png"
       },
       {
         "name": "Binance Pegged Litecoin",
