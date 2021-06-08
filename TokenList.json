@@ -1,5 +1,5 @@
 {
-    "name": "0x0 TokenList",
+    "name": "DefiChatRoom TokensList",
     "timestamp": "2021-06-03T13:19:02.995Z",
     "version": {
       "major": 2,
@@ -8,17 +8,25 @@
     },
     "logoURI": "https://avatars.githubusercontent.com/u/85376580?s=400&u",
     "keywords": [
-      "0x0",
+      "DefiChatRoom",
       "Tokens"
     ],
     "tokens": [
       {
-        "name": "Binance Pegged Cardano",
-        "symbol": "ADA",
-        "address": "0x16c0e0936e1b38ff1f9b8a1e75d8ba29adf87d30",
+        "name": "MILF",
+        "symbol": "MILF",
+        "address": "0xcb7a1dc3a40fb64ea57d297cef439a103fc11e66",
         "chainId": 56,
-        "decimals": 18,
-        "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47/logo.png"
+        "decimals": 9,
+        "logoURI": "https://bscscan.com/token/images/milffinance_32.png"
+      },
+      {
+        "name": "MATADOR",
+        "symbol": "MTDR",
+        "address": "0x994517e000aa3F117E7Ad61B0e2336C76B4Fd94a",
+        "chainId": 56,
+        "decimals": 9,
+        "logoURI": "https://bscscan.com/token/images/matadortoken_32.png"
       },
       {
         "name": "KnightToken",
@@ -37,6 +45,24 @@
         "logoURI": "https://bscscan.com/token/images/knightsdefi-shiling_32.png"
       },
       {
+        "name": "GoldFarm",
+        "symbol": "$GOLD",
+        "address": "0xd0f653ad03ca32a792abfa6d6711cdf1311e5d9d",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://bscscan.com/token/images/goldfarmio_32.png"
+      },
+      
+      {
+        "name": "Binance Pegged Cardano",
+        "symbol": "ADA",
+        "address": "0x16c0e0936e1b38ff1f9b8a1e75d8ba29adf87d30",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47/logo.png"
+      },
+      
+      {
         "name": "AlphaToken",
         "symbol": "ALPHA",
         "address": "0xa1faa113cbE53436Df28FF0aEe54275c13B40975",
@@ -44,22 +70,7 @@
         "decimals": 18,
         "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xa1faa113cbE53436Df28FF0aEe54275c13B40975/logo.png"
       },
-      {
-        "name": "MILF",
-        "symbol": "MILF",
-        "address": "0xcb7a1dc3a40fb64ea57d297cef439a103fc11e66",
-        "chainId": 56,
-        "decimals": 9,
-        "logoURI": "https://bscscan.com/token/images/milffinance_32.png"
-      },
-      {
-        "name": "MATADOR",
-        "symbol": "MTDR",
-        "address": "0x994517e000aa3F117E7Ad61B0e2336C76B4Fd94a",
-        "chainId": 56,
-        "decimals": 9,
-        "logoURI": "https://bscscan.com/token/images/matadortoken_32.png"
-      },
+      
       {
         "name": "Binance Pegged Band Protocol Token",
         "symbol": "BAND",
@@ -173,20 +184,20 @@
         "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png"
       },
       {
-        "name": "CateCoin",
-        "symbol": "CATE",
-        "address": "0x118F073796821DA3E9901061B05c0b36377B877e",
-        "chainId": 56,
-        "decimals": 8,
-        "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x118F073796821DA3E9901061B05c0b36377B877e/logo.png"
-      },
-      {
-        "name": "CluCoin",
-        "symbol": "CLU",
-        "address": "0x1162E2EfCE13f99Ed259fFc24d99108aAA0ce935",
+        "name": "CoinBurn",
+        "symbol": "CBN",
+        "address": "0x53A61eab81463803a269118d5e41b4AF26969Af6",
         "chainId": 56,
         "decimals": 9,
-        "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x1162E2EfCE13f99Ed259fFc24d99108aAA0ce935/logo.png"
+        "logoURI": ""
+      },
+      {
+        "name": "ROCKS IDLE GAME ",
+        "symbol": "ROCKS",
+        "address": "0xfc4ed6fc4c0bb0432ec11701685578ae5e620c38",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": ""
       },
       {
         "name": "Binance Pegged Compound Coin",
@@ -197,12 +208,12 @@
         "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x52CE071Bd9b1C4B00A0b92D298c512478CaD67e8/logo.png"
       },
       {
-        "name": "CrossPad.finance",
-        "symbol": "CROSS",
-        "address": "0x5b6eF1f87D5cEc1e8508ddB5De7E895869e7A4A3",
+        "name": "Cerberus Token",
+        "symbol": "CERBERUS",
+        "address": "0x8b3268a23131dafbd77165690767f285c1aac6c5",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x5b6eF1f87D5cEc1e8508ddB5De7E895869e7A4A3/logo.png"
+        "logoURI": ""
       },
       {
         "name": "CumRocket",
