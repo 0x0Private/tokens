@@ -90,10 +90,10 @@
       {
         "name": "Bogged Finance",
         "symbol": "BOG",
-        "address": "0xD7B729ef857Aa773f47D37088A1181bB3fbF0099",
+        "address": "0xb09fe1613fe03e7361319d2a43edc17422f36b09",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xD7B729ef857Aa773f47D37088A1181bB3fbF0099/logo.png"
+        "logoURI": "https://bscscan.com/token/images/bogtools_32.png"
       },
       {
         "name": "Bonfire",
